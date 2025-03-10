@@ -6,7 +6,7 @@ namespace tpmodul4_103022300104
     {
         static void Main()
         {
-            KodePos kodePos = new KodePos(); // Membuat objek KodePos
+            KodePos kodePos = new KodePos();
 
             Console.Write("Masukkan nama kelurahan: ");
             string kelurahan = Console.ReadLine();
