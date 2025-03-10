@@ -2,7 +2,7 @@
 
 namespace tpmodul4_103022300104
 {
-    class Program
+    class ProgramKodePos
     {
         static void Main()
         {
