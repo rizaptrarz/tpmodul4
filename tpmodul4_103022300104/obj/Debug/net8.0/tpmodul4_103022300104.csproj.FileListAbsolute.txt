@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\Semester 4\Praktikum KPL\tpmodul4_103022300104\tpmodul4_103022300104\bin\Debug\net8.0\tpmodul4_103022300104.exe
+C:\Users\LENOVO\Documents\Semester 4\Praktikum KPL\tpmodul4_103022300104\tpmodul4_103022300104\bin\Debug\net8.0\tpmodul4_103022300104.deps.json
+C:\Users\LENOVO\Documents\Semester 4\Praktikum KPL\tpmodul4_103022300104\tpmodul4_103022300104\bin\Debug\net8.0\tpmodul4_103022300104.runtimeconfig.json
+C:\Users\LENOVO\Documents\Semester 4\Praktikum KPL\tpmodul4_103022300104\tpmodul4_103022300104\bin\Debug\net8.0\tpmodul4_103022300104.dll
+C:\Users\LENOVO\Documents\Semester 4\Praktikum KPL\tpmodul4_103022300104\tpmodul4_103022300104\bin\Debug\net8.0\tpmodul4_103022300104.pdb
+C:\Users\LENOVO\Documents\Semester 4\Praktikum KPL\tpmodul4_103022300104\tpmodul4_103022300104\obj\Debug\net8.0\tpmodul4_103022300104.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Semester 4\Praktikum KPL\tpmodul4_103022300104\tpmodul4_103022300104\obj\Debug\net8.0\tpmodul4_103022300104.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Semester 4\Praktikum KPL\tpmodul4_103022300104\tpmodul4_103022300104\obj\Debug\net8.0\tpmodul4_103022300104.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Semester 4\Praktikum KPL\tpmodul4_103022300104\tpmodul4_103022300104\obj\Debug\net8.0\tpmodul4_103022300104.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Semester 4\Praktikum KPL\tpmodul4_103022300104\tpmodul4_103022300104\obj\Debug\net8.0\tpmodul4_103022300104.sourcelink.json
+C:\Users\LENOVO\Documents\Semester 4\Praktikum KPL\tpmodul4_103022300104\tpmodul4_103022300104\obj\Debug\net8.0\tpmodul4_103022300104.dll
+C:\Users\LENOVO\Documents\Semester 4\Praktikum KPL\tpmodul4_103022300104\tpmodul4_103022300104\obj\Debug\net8.0\refint\tpmodul4_103022300104.dll
+C:\Users\LENOVO\Documents\Semester 4\Praktikum KPL\tpmodul4_103022300104\tpmodul4_103022300104\obj\Debug\net8.0\tpmodul4_103022300104.pdb
+C:\Users\LENOVO\Documents\Semester 4\Praktikum KPL\tpmodul4_103022300104\tpmodul4_103022300104\obj\Debug\net8.0\tpmodul4_103022300104.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Semester 4\Praktikum KPL\tpmodul4_103022300104\tpmodul4_103022300104\obj\Debug\net8.0\ref\tpmodul4_103022300104.dll
